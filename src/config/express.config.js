@@ -6,5 +6,5 @@ const app = express();
 
 
 app.use(mainRoute)
-
+console.log("Testing phase 2")
 module.exports = app;
